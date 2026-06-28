@@ -5,3 +5,11 @@ bun.lock
 .gitignore
 package-lock.json
 references/
+skills/approve-bitbucket-pr/
+skills/bitbucket-jenkins-webhooks/
+skills/bitbucket-pr-review/
+skills/confluence/
+skills/infra-review/
+skills/jenkins/
+skills/jenkins-development/
+skills/jira/
